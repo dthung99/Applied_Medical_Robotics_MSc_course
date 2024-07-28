@@ -1,6 +1,6 @@
 # Applied Medical Robotics Project
 
-This is my project for the 'Applied Medical Robotics' module of my MSc at King's College London. The course offers us a wide range of skills including CAD, electronic assembly, microcontroller programming, serial communication, and robotic theory. I create this repository long after the project finished. The codes are badly commented as they are among my first programming project.
+This is my project for the 'Applied Medical Robotics' module of my MSc at King's College London. The course offers us a wide range of skills including CAD, electronic assembly, microcontroller programming, serial communication, and robotic theory. I create this repository long after the project finished. The codes are badly commented as they are one of my first programming projects.
 
 # Aim and Objectives:
 
@@ -28,4 +28,4 @@ The CAD design was done on [Onshape](https://cad.onshape.com/documents/e2da70dce
 
 The [Arduino/microcontroller/microcontroller.ino](Arduino/microcontroller/microcontroller.ino) contains the C++ code to upload to the Arduino board.
 
-The [Arduino/MATLAB](Arduino/MATLAB) contains the MATLAB codes, with [setup.m](Arduino/MATLAB/setup.m) being the main script, and others are support functions.
+The [MATLAB](MATLAB) contains the MATLAB codes, with [setup.m](MATLAB/setup.m) being the main script, and others are support functions. I don't recall how the MATLAB files are structured, which is why they are a mess there.
