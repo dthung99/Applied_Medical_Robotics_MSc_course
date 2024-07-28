@@ -1,6 +1,6 @@
 # Applied Medical Robotics Project
 
-This is my project for the 'Applied Medical Robotics' module of my MSc at King's College London. The course offers us a wide range of skills including CAD, electronic assembly, microcontroller programming, serial communication, and robotic theory. I create this repository long after the project finished. The codes are BADLY DESIGNED and COMMENTED as they are one of my first programming projects.
+This is my project for the 'Applied Medical Robotics' module of my MSc at King's College London. The course offers us a wide range of skills including CAD, electronic assembly, microcontroller programming, serial communication, and robotic theory. I create this repository long after the project finished. The codes are **BADLY DESIGNED** and **COMMENTED** as they are one of my first programming projects.
 
 # Aim and Objectives:
 
