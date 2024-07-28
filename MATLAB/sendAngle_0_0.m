@@ -1,0 +1,6 @@
+function sendAngle_0_0(~, ~, ~)
+global hAngleinput1 hAngleinput2
+set(hAngleinput1, 'String', "0");
+set(hAngleinput2, 'String', "0");
+sendAngle();
+end
