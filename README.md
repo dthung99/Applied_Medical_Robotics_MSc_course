@@ -20,6 +20,8 @@ The project included the following components:
 
 # Result:
 
+![robot](images/robot.jpg)
+
 I got a total of 8.9/10.
 
 # Note:
